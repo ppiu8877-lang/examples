@@ -1,11 +1,8 @@
 {
-  "name": "bootstrap-examples",
-  "description": "Functional examples for building with Bootstrap using popular tools and frameworks.",
-  "version": "0.0.0",
+  "name": "poultry-store",
   "private": true,
-  "repository": "twbs/examples",
-  "license": "MIT",
+  "type": "module",
   "scripts": {
-    "build:preview": "node scripts/build-preview.mjs --install"
+    "start": "node server.js"
   }
 }
